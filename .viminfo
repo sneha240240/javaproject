@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1663921920,,"wq!"
+|2,0,1663922584,,"wq!"
 :q!
 |2,0,1663921586,,"q!"
 
@@ -27,28 +27,32 @@
 # Registers:
 
 # File marks:
-'0  3  20  ~/shell.sh
-|4,48,3,20,1663921920,"~/shell.sh"
-'1  1  0  /var/lib/jenkins/jobs/first/nextBuildNumber
-|4,49,1,0,1663921586,"/var/lib/jenkins/jobs/first/nextBuildNumber"
-'2  1  0  /var/lib/jenkins/jobs/first/config.xml
-|4,50,1,0,1663921563,"/var/lib/jenkins/jobs/first/config.xml"
-'3  5  0  ~/helloworld.java
-|4,51,5,0,1663920807,"~/helloworld.java"
-'4  4  36  ~/helloworld.java
-|4,52,4,36,1663919822,"~/helloworld.java"
-'5  4  36  ~/helloworld.java
-|4,53,4,36,1663919822,"~/helloworld.java"
-'6  5  0  ~/helloworld.java
-|4,54,5,0,1663919516,"~/helloworld.java"
-'7  6  0  ~/helloworld.java
-|4,55,6,0,1663919516,"~/helloworld.java"
+'0  1  8  ~/shell.sh
+|4,48,1,8,1663922584,"~/shell.sh"
+'1  4  20  ~/shell.sh
+|4,49,4,20,1663921920,"~/shell.sh"
+'2  3  20  ~/shell.sh
+|4,50,3,20,1663921920,"~/shell.sh"
+'3  1  0  /var/lib/jenkins/jobs/first/nextBuildNumber
+|4,51,1,0,1663921586,"/var/lib/jenkins/jobs/first/nextBuildNumber"
+'4  1  0  /var/lib/jenkins/jobs/first/config.xml
+|4,52,1,0,1663921563,"/var/lib/jenkins/jobs/first/config.xml"
+'5  5  0  ~/helloworld.java
+|4,53,5,0,1663920807,"~/helloworld.java"
+'6  4  36  ~/helloworld.java
+|4,54,4,36,1663919822,"~/helloworld.java"
+'7  4  36  ~/helloworld.java
+|4,55,4,36,1663919822,"~/helloworld.java"
 '8  5  0  ~/helloworld.java
 |4,56,5,0,1663919516,"~/helloworld.java"
-'9  5  1  ~/helloworld.java
-|4,57,5,1,1663917675,"~/helloworld.java"
+'9  6  0  ~/helloworld.java
+|4,57,6,0,1663919516,"~/helloworld.java"
 
 # Jumplist (newest first):
+-'  1  8  ~/shell.sh
+|4,39,1,8,1663922584,"~/shell.sh"
+-'  4  20  ~/shell.sh
+|4,39,4,20,1663922556,"~/shell.sh"
 -'  3  20  ~/shell.sh
 |4,39,3,20,1663921920,"~/shell.sh"
 -'  1  0  ~/shell.sh
@@ -57,6 +61,18 @@
 |4,39,1,0,1663921586,"/var/lib/jenkins/jobs/first/nextBuildNumber"
 -'  1  0  /var/lib/jenkins/jobs/first/nextBuildNumber
 |4,39,1,0,1663921586,"/var/lib/jenkins/jobs/first/nextBuildNumber"
+-'  1  0  /var/lib/jenkins/jobs/first/nextBuildNumber
+|4,39,1,0,1663921586,"/var/lib/jenkins/jobs/first/nextBuildNumber"
+-'  1  0  /var/lib/jenkins/jobs/first/nextBuildNumber
+|4,39,1,0,1663921586,"/var/lib/jenkins/jobs/first/nextBuildNumber"
+-'  1  0  /var/lib/jenkins/jobs/first/config.xml
+|4,39,1,0,1663921563,"/var/lib/jenkins/jobs/first/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/first/config.xml
+|4,39,1,0,1663921563,"/var/lib/jenkins/jobs/first/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/first/config.xml
+|4,39,1,0,1663921563,"/var/lib/jenkins/jobs/first/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/first/config.xml
+|4,39,1,0,1663921563,"/var/lib/jenkins/jobs/first/config.xml"
 -'  1  0  /var/lib/jenkins/jobs/first/config.xml
 |4,39,1,0,1663921563,"/var/lib/jenkins/jobs/first/config.xml"
 -'  1  0  /var/lib/jenkins/jobs/first/config.xml
@@ -81,6 +97,38 @@
 |4,39,5,0,1663920807,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
 |4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663920807,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1663920735,"~/helloworld.java"
 -'  1  0  ~/helloworld.java
 |4,39,1,0,1663920735,"~/helloworld.java"
 -'  1  0  ~/helloworld.java
@@ -129,6 +177,54 @@
 |4,39,4,36,1663919822,"~/helloworld.java"
 -'  4  36  ~/helloworld.java
 |4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  4  36  ~/helloworld.java
+|4,39,4,36,1663919822,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1663919794,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
 |4,39,5,0,1663919794,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
@@ -153,103 +249,16 @@
 |4,39,6,0,1663919785,"~/helloworld.java"
 -'  6  0  ~/helloworld.java
 |4,39,6,0,1663919785,"~/helloworld.java"
--'  6  0  ~/helloworld.java
-|4,39,6,0,1663919785,"~/helloworld.java"
--'  6  0  ~/helloworld.java
-|4,39,6,0,1663919785,"~/helloworld.java"
--'  6  0  ~/helloworld.java
-|4,39,6,0,1663919785,"~/helloworld.java"
--'  6  0  ~/helloworld.java
-|4,39,6,0,1663919785,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663919516,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  5  0  ~/helloworld.java
-|4,39,5,0,1663917675,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1663917635,"~/helloworld.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/shell.sh
-	*	1663921918	0
-	"	3	20
-	^	3	21
-	.	3	20
-	+	3	20
+	*	1663922579	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	4	20
+	+	1	8
 
 > /var/lib/jenkins/jobs/first/nextBuildNumber
 	*	1663921584	0
